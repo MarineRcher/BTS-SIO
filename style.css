@@ -197,6 +197,9 @@ img {
     justify-content: left;
     margin: 15%;
     font-size: 1em;
+    position: relative;
+  text-align: center;
+  color: rgb(51, 22, 78);
 }
 .lire{
     width: 100%;
@@ -206,6 +209,8 @@ img {
     justify-content: left;
     margin: 15%;
     font-size: 1em;
+    text-align: center;
+    color: rgb(51, 22, 78);
 }
 .rando{
     width: 100%;
@@ -215,4 +220,8 @@ img {
     justify-content: left;
     margin: 15%;
     font-size: 1em;
+    text-align: center;
+    color: rgb(51, 22, 78);
 }
+
+  
